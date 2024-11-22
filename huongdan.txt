@@ -1,0 +1,1 @@
+giải nén file data rồi chạy lần lượt 3 file 1, 2, 3
